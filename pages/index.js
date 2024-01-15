@@ -60,7 +60,7 @@ export default function Home() {
 
 
   const handleChange = (event) => {
-    console.log("we are using mainnet")
+    console.log("we are using Devnet")
   };
 
 
